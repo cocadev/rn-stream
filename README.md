@@ -6,9 +6,7 @@
     <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
   </kbd>
   <br>
-  <kbd>
-    <img width="750" style="border-radius: 5px" height="450" src="images/screenshots.png" alt="1">
-  </kbd>
+
   <br><br>
 </h1>
 
@@ -39,7 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
+   <kbd>
+    <img width="750" style="border-radius: 5px" height="450" src="images/screenshots.png" alt="1">
+  </kbd>
 </p>
 
 ## :blush: **Overview?**
