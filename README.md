@@ -1,4 +1,4 @@
-<h1 align="center"><b> Stream Feed App </b> </h1>
+<h1 align="center"><b> Stream Feed RN App </b> </h1>
 
 <h1 align="center">
   <br>
