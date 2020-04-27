@@ -5,7 +5,7 @@ const comments = [
       id: 1,
       data: {
         name: 'Janis Joplin',
-        profileImage: 'https://randomuser.me/api/portraits/women/21.jpg',
+        profileImage: 'https://randomuser.me/api/portraits/men/21.jpg',
       },
     },
     data: {
